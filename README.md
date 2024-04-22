@@ -1,4 +1,4 @@
-                                                                                                                                                                  Returns a screenshot of website
+Returns a screenshot of website
 
 usage:
 
